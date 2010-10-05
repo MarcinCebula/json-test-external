@@ -1,0 +1,3 @@
+$.ready() {
+	alert("hello world")
+}
